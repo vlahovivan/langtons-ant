@@ -13,7 +13,7 @@ coordinates should be larger or equal to 0, but less than 1
 don't put spaces before or after the comma  
 
 Examples used in my YouTube video:  
-Just copy one of them and paste it in the "LangtonsAnts.txt" file in either this folder, or one of the build folders, depending on where you're starting the program from.  
+Just copy one of them and paste it in the "LangtonsAnts.txt" file in either the main folder, or one of the build folders, depending on where you're starting the program from.  
 When you start the program, press Spacebar to start the simulation.
 
 ```
