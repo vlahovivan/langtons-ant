@@ -2,18 +2,18 @@
 The code and the program for my YouTube video "I made Langton's ants fight each other (Part 2)"
 
 ## Usage
-To use the program, you have to enter the data about the Langton's ants in the "LangtonsAnts.txt" file.
-Lines should be in the form:
-rule,color,normalized x coordinate,normalized y coordinate,direction
-rule is a string of Ls and Rs
-color is in hex format, without the hashtag
-for example, 000000 is black, ff0000 is red
-coordinate 0,0 is the top left corner, 1,1 is the bottom right corner
-coordinates should be larger or equal to 0, but less than 1
-don't put spaces before or after the comma
+To use the program, you have to enter the data about the Langton's ants in the "LangtonsAnts.txt" file.  
+Lines should be in the form:  
+rule,color,normalized x coordinate,normalized y coordinate,direction  
+rule is a string of Ls and Rs  
+color is in hex format, without the hashtag  
+for example, 000000 is black, ff0000 is red  
+coordinate 0,0 is the top left corner, 1,1 is the bottom right corner  
+coordinates should be larger or equal to 0, but less than 1  
+don't put spaces before or after the comma  
 
-Examples used in my YouTube video:
-Just copy one of them and paste it in the "LangtonsAnts.txt" file in either this folder, or one of the build folders, depending on where you're starting the program from.
+Examples used in my YouTube video:  
+Just copy one of them and paste it in the "LangtonsAnts.txt" file in either this folder, or one of the build folders, depending on where you're starting the program from.  
 When you start the program, press Spacebar to start the simulation.
 
 ```
